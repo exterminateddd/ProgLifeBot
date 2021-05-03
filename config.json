@@ -1,0 +1,54 @@
+{
+    "guild": "796020701635149895",
+    "token": "ODM0NDYyNjAwNTYwNTA4OTQw.YIBP2w.Dh_QQO48CCJ8rDhDyPJCYqTQitY",
+    "channels": {
+        "roles": 834445924309794876,
+        "polls": 835176447504285737,
+        "rules": 834440091169718322,
+        "role-request": 835524330871455814,
+        "memes": 834819263834750996,
+        "log": {
+            "rolegain": 835577784465358909,
+            "rolereqs": 835577685195096115,
+            "admin": 836166304297123851,
+            "prorole": 836200830930649109
+        }
+    },
+    "emojies": {
+        "Python": "python",
+        "JavaScript": "js",
+        "Java": "java",
+        "TypeScript": "ts",
+        "C#": "csharp",
+        "C++": "cpp",
+        "Rust": "rs",
+        "Haskell": "hs",
+        "Golang": "go",
+        "Swift": "swift"
+    },
+    "rules": [{
+            "title": "Запрещены прямые оскорбления серьёзной манеры.",
+            "add": "Оскорбления можно вуалировать и скрывать. Шуточные оскорбления не наказываются.",
+            "fine": "20m",
+            "aliases": [0, "osk", "оск"]
+        },
+        {
+            "title": "Запрещено преднамеренное разжигание межрасовых/межнациональных конфликтов.",
+            "add": "Является серьёзным нарушением.",
+            "fine": "3h",
+            "aliases": [1, "рас", "ras", "race"]
+        },
+        {
+            "title": "Запрещена публикация шокирующего(пугающего) контента.",
+            "add": "Примеры: жёсткие скримеры, расчленёнка, трупы и т.д.",
+            "fine": "5h",
+            "aliases": [2, "screamer", "screamers", "скр", "scr", "пуг", "pug"]
+        },
+        {
+            "title": "Test rule.",
+            "add": "This is just a test rule. U do not need to follow it. (Test addition to the test rule). Sdasadasd",
+            "fine": "19h",
+            "aliases": [-1, "test", "testrule", "тест"]
+        }
+    ]
+}
